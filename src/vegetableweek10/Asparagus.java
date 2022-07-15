@@ -7,7 +7,7 @@ package vegetableweek10;
 
 /**
  * Class to model asparagus
- * @author dancye
+ * @author dancye 2022
  */
 public class Asparagus extends Vegetable{
 
