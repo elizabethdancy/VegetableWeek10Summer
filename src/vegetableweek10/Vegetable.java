@@ -8,7 +8,7 @@ package vegetableweek10;
 /**
  * our abstract base class for a general Vegetable. A vegetable has a name and 
  * a colour. Children must implement isTasty.
- * @author dancye, 2020
+ * @author dancye, 2022
  */
 public abstract class Vegetable 
 {
