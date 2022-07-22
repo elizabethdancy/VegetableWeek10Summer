@@ -8,7 +8,7 @@ package vegetableweek10;
 /**
  * Example vegetable factory showing the creation of
  * each child class
- * @author dancye, 2020
+ * @author dancye, 2022
  */
 public class VegetableFactory 
 {
